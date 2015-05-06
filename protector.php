@@ -1,6 +1,6 @@
 <?php
 // DRAV Admin Login Page Protector
-// Created by a.k.a Dharaninja
+// Created by Dharaninja
 // Email : dhara.s3curity@gmail.com
 
 error_reporting(0);
