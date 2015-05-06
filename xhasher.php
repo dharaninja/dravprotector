@@ -27,7 +27,7 @@ function xhasher($input,$key) {
 $username = "";
 $password = "";
 echo "<center><h1>XHASHER GENERATOR</h1></center>";
-echo "<center><h3>Created By Ravi Dharmawan a.k.a Dharaninja</h3></center><br>";
+echo "<center><h3>Created By Dharaninja</h3></center><br>";
 echo "<center>USERNAME : <strong>".xhasher($username,"NHGURAGVPNGVBA_HFREANZR")."</strong></center><br>";
 echo "<center>PASSWORD : <strong>".xhasher($password,"NHGURAGVPNGVBA_CNFFJBEQ")."</strong></center><br>";
 
